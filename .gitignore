@@ -1,0 +1,5 @@
+.DS_Store
+*.o
+*.a
+.vscode
+minishell_tester
